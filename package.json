@@ -1,0 +1,10 @@
+{
+  "name": "language-natural",
+  "description": "NATURAL support in Atom",
+  "repository": "https://github.com/marcio-mao/language-natural",
+  "version": "0.0.1",
+  "engines": {
+    "atom": "*"
+  },
+  "license": "MIT"
+}
